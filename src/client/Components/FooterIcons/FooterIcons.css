@@ -1,0 +1,9 @@
+.footerIcons__list{
+    list-style: none;
+
+}
+
+.footerIcons__listItem__figure__Image{
+    width:4rem;
+    height:auto;
+}

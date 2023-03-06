@@ -1,0 +1,32 @@
+.wellboardInfo__article{
+    display:flex;
+    gap:3rem;
+    padding:5rem;
+}
+
+.wellboardInfo__article__figure__image{
+    width:auto;
+    height:45rem;
+    border-radius:2rem;    
+}
+
+.wellboardInfo__article__main{
+    display:flex;
+    flex-direction: column;
+}
+
+.wellboardInfo__article__bedrijfsnaam{
+    font-size:5rem;
+    padding-top:2rem;
+    padding-bottom:2rem;
+}
+
+.wellboardInfo__article__beschrijving{
+    font-size:3rem;
+    padding-bottom:2rem;
+}
+
+.wellboardInfo__article__informatie{
+    font-size:2rem;
+    font-weight:300;
+}

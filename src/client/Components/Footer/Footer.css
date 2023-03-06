@@ -1,0 +1,38 @@
+.footer {
+    width: auto;
+    min-height: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #eeeeeebe;
+    color: #2d2b27;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    padding: 2rem;
+}
+
+.footer__linkList {
+    list-style: none;
+    text-decoration: none;
+    color: #2d2b27;
+}
+
+.footer__linkList__ListItems {
+    text-decoration: none;
+    color: #2d2b27;
+}
+
+.footer__linkList__ListItem__Link {
+    text-decoration: none;
+    color: #2d2b27;
+}
+
+.footer__linkList__ListItem__Link:visited {
+    text-decoration: none;
+    color: #2d2b27;
+}
+
+.footerIcons__section {
+    display: flex;
+    gap:5rem;
+}
